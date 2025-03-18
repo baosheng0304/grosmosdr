@@ -1,0 +1,134 @@
+Package: libuhd-dev
+Description-md5: 885f98c8b926c7c931605771d7f8a4bf
+Description-en: universal hardware driver for Ettus Research products
+ Host library for the USRP Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+ .
+ This package contains the header files for developing with libuhd.
+ Doxygen generated documentation is in the uhd-host package.
+
+Package: libuhd3.15.0
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Description-en: hardware driver for Ettus Research products
+ Host library for the USRP Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+
+Package: libuhd4.0.0
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Description-en: hardware driver for Ettus Research products
+ Host library for the USRP Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+
+Package: libuhd4.1.0
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Description-en: hardware driver for Ettus Research products
+ Host library for the USRP Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+
+Package: libuhd4.2.0
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Description-en: hardware driver for Ettus Research products
+ Host library for the USRP Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+
+Package: libuhd4.3.0
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Description-en: hardware driver for Ettus Research products
+ Host library for the USRP Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+
+Package: libuhd4.4.0
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Description-en: hardware driver for Ettus Research products
+ Host library for the USRP Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+
+Package: libuhd4.5.0
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Description-en: hardware driver for Ettus Research products
+ Host library for the USRP Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+
+Package: libuhd4.6.0
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Description-en: hardware driver for Ettus Research products
+ Host library for the USRP Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+
+Package: libuhd4.7.0
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Description-en: hardware driver for Ettus Research products
+ Host library for the USRP Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+
+Package: libuhd4.8.0
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Description-en: hardware driver for Ettus Research products
+ Host library for the USRP Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+
+Package: python3-uhd
+Description-md5: fce65a0b1c471c0ce59179ca381c84ff
+Description-en: universal hardware driver for Ettus Research products - Python3
+ Host library for the Universal Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+ .
+ This package contains the Python API support for Python3.
+
+Package: uhd-doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+Description-en: universal hardware driver for Ettus Research products - doc
+ Detailed documentation for the Universal Hardware Driver.
+ .
+ This package includes the Doxygen generated documentation.
+
+Package: uhd-host
+Description-md5: a5f53ab99883c972e930e6d139a8d57b
+Description-en: hardware driver for Ettus Research products - host apps
+ Host utilities for the USRP Hardware Driver for Ettus Research products.
+ .
+ The supported devices provide analog radio receiver and transmitter hardware
+ along with digital interfaces for getting signals to and from a software
+ defined radio running on the host computer.
+ .
+ This package includes the uhd_find_devices application to locate and
+ configure attached peripherals, the uhd_usrp_probe application to
+ display hardware configuration information, and Doxygen generated
+ documentation.
+

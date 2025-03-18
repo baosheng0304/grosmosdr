@@ -1,0 +1,133 @@
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 29733
+Maintainer: Ettus Research <uhd.maintainer@emerson.com>
+Architecture: all
+Version: 4.8.0.0-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.8.0.0-0ubuntu1~focal1_all.deb
+Size: 7895720
+MD5sum: 1aa547f6c4dfe92495f2a4faedca7c5a
+SHA1: c2da68a77881f3dee804978758c133687890fe09
+SHA256: 43959fc0555861a7e85c6421d1bb45f3307a8f445202d8d959d43416a6cd5e3d
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 29542
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: all
+Version: 4.7.0.0-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.7.0.0-0ubuntu1~focal1_all.deb
+Size: 7877292
+MD5sum: 9f852c3ddd4c3cd7c9b1f80755a2f9cf
+SHA1: eb84fcc02285a388f8d65cc749f8cf3142ea14b6
+SHA256: f4417bf27947c3cec5693a7642dc52dfa38b38ee1bec42f357d8aa28e3a42594
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 29388
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: all
+Version: 4.6.0.0-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.6.0.0-0ubuntu1~focal1_all.deb
+Size: 7866824
+MD5sum: 80cc37c0fad923b063abbdaf304142f2
+SHA1: 162237cfc1bf694b58dd3e8362bfe08ad94de399
+SHA256: 2edf45e991e03f6037dba5b9b5d1516346e866aa057550b6cfebd492c545710b
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 29380
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: all
+Version: 4.5.0.0-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.5.0.0-0ubuntu1~focal1_all.deb
+Size: 7864428
+MD5sum: 0333837c1e0a6b7fb180d040f49dddc9
+SHA1: 205db95c25b9f1b783389d0d18551b251190e0a0
+SHA256: 51997c811e653bea8829b0261b4e14f2dc6dec00fd00f19e123e465f1936dece
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 27443
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: all
+Version: 4.4.0.0-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.4.0.0-0ubuntu1~focal1_all.deb
+Size: 5797188
+MD5sum: 01a0dea0bb344ec534d9de12ad11f031
+SHA1: 6aef37bead0b6816fc900e9f0ac89bbbe76fe2e9
+SHA256: 73b9484cd9a76e1d30210aba9f4a39b21f75c97ad40eea2380851723600f31c2
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 27482
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: all
+Version: 4.3.0.0-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.3.0.0-0ubuntu1~focal1_all.deb
+Size: 5845244
+MD5sum: 2f41ca0abf71d29cdf49610da245ce2c
+SHA1: 0c5caaafa94c79d4ced3cf44109e977270a9bc8b
+SHA256: 396a9d54352d3bea0d0bccbccbec0024661a9123deae757a33244f5904fb2c3c
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 26227
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: all
+Version: 4.2.0.1-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.2.0.1-0ubuntu1~focal1_all.deb
+Size: 5771636
+MD5sum: 2354986e935a95c82fb29ed7037a5171
+SHA1: 6ad2400c5d38a540ae5856de7cae644e7568e218
+SHA256: 7b0bc1d5e83d00a93004a8eabf4e1bbd5fa335fe12ed4af24514428efaa053be
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+

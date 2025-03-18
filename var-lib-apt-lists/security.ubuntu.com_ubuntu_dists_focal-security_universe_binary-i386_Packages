@@ -17716,6 +17716,28 @@ SHA512: 63f85cd4b651ab78b76a77e1bb6edc492ee90c6f2c370eae5228a64df7304189dee30286
 Description: IDE for Python (v3.8) using Tkinter
 Description-md5: 58009ba2bb385e2cf47cec312a6405fb
 
+Package: idle-python3.8
+Architecture: all
+Version: 3.8.10-0ubuntu1~20.04.17
+Priority: optional
+Section: universe/python
+Source: python3.8
+Origin: Ubuntu
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 1349
+Depends: python3.8, python3-tk, python3.8-tk, libjs-mathjax
+Enhances: python3.8
+Filename: pool/universe/p/python3.8/idle-python3.8_3.8.10-0ubuntu1~20.04.17_all.deb
+Size: 320536
+MD5sum: 78a93a2b11c02a93edad5b363602b079
+SHA1: 0fec68953226ae774716798541c3093dc52e73f1
+SHA256: d841f972f4490ddc1ff6ee48f2eac32deb0e8a189efc02a25fe726ccd0adb34c
+SHA512: 7c0f40ef0bb3e779d552e7dd8b65a5debb42efe370c3ded7962c976f01f5a4098bdfbcae35c7c6b76a73752cd2bca9fff1de3d2d2ba525c49181adcf75bfc07d
+Description: IDE for Python (v3.8) using Tkinter
+Description-md5: 58009ba2bb385e2cf47cec312a6405fb
+
 Package: idle-python3.9
 Architecture: all
 Version: 3.9.5-3ubuntu0~20.04.1
@@ -57072,6 +57094,28 @@ SHA512: 3f6b4fb7efa4ffe70b7fa828a3b03f7d0593d3eee693dfb104f2e8c302ff63d0f458a909
 Description: Testsuite for the Python standard library (v3.8)
 Description-md5: e066f95a68978dfc6eb1f76eb3c824e9
 
+Package: libpython3.8-testsuite
+Architecture: all
+Version: 3.8.10-0ubuntu1~20.04.17
+Priority: optional
+Section: universe/libdevel
+Source: python3.8
+Origin: Ubuntu
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Matthias Klose <doko@debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 22582
+Depends: python3.8 (>= 3.8.10-0ubuntu1~20.04.17), net-tools
+Suggests: python3-gdbm, python3-tk
+Filename: pool/universe/p/python3.8/libpython3.8-testsuite_3.8.10-0ubuntu1~20.04.17_all.deb
+Size: 3092652
+MD5sum: 550ea38942bb74c380ec2b546d7cdc3c
+SHA1: b49522629e11628cb274b75616aa91fa70c73c4e
+SHA256: 1d59bca564300594cdf91088af1485d2a873ca8d1e38680b86688c8598d68d93
+SHA512: ee4a0d35e7166f3c41cf52bf0475a944c5b3e38437e2c0ecea0d3f960a62fb53494ea64f305a63145c372a09aa605c40c8054acf400f44d8da6094171aa1004e
+Description: Testsuite for the Python standard library (v3.8)
+Description-md5: e066f95a68978dfc6eb1f76eb3c824e9
+
 Package: libpython3.9
 Architecture: i386
 Version: 3.9.5-3ubuntu0~20.04.1
@@ -75131,7 +75175,7 @@ Description-md5: f239d28b37bcadf8b6416e23a48ae50d
 
 Package: python3.8-full
 Architecture: i386
-Version: 3.8.10-0ubuntu1~20.04.16
+Version: 3.8.10-0ubuntu1~20.04.17
 Multi-Arch: allowed
 Priority: optional
 Section: universe/python
@@ -75141,21 +75185,21 @@ Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Original-Maintainer: Matthias Klose <doko@debian.org>
 Bugs: https://bugs.launchpad.net/ubuntu/+filebug
 Installed-Size: 6
-Depends: python3.8 (= 3.8.10-0ubuntu1~20.04.16), libpython3.8-testsuite, python3.8-venv (= 3.8.10-0ubuntu1~20.04.16), idle-python3.8, python3.8-distutils, python3.8-gdbm, python3.8-lib2to3, python3.8-tk, ca-certificates
+Depends: python3.8 (= 3.8.10-0ubuntu1~20.04.17), libpython3.8-testsuite, python3.8-venv (= 3.8.10-0ubuntu1~20.04.17), idle-python3.8, python3.8-distutils, python3.8-gdbm, python3.8-lib2to3, python3.8-tk, ca-certificates
 Recommends: python3.8-doc, python3.8-examples
 Suggests: python3.8-dev
-Filename: pool/universe/p/python3.8/python3.8-full_3.8.10-0ubuntu1~20.04.16_i386.deb
+Filename: pool/universe/p/python3.8/python3.8-full_3.8.10-0ubuntu1~20.04.17_i386.deb
 Size: 1332
-MD5sum: ff012c58000c760767ecec1999ba68e6
-SHA1: 0c695910fc81d6205c488c736e21961e75f8df6f
-SHA256: fd8db9ddf57d9affb4368914b49d75fc911cec5a22aa04e925f1c59941e5851d
-SHA512: 9113ac95d3248b5ef2cc573564ab3a583bbbf27092042ff9bf2b3b76bc04c7d1c2aa7774217ef0e76a3ea4969bf2cd69bf84c701592dce71b5bd5871b96333b1
+MD5sum: 507e316b38ace49ea7485fea769a68b0
+SHA1: 8b76e6e9a2b0069ae65330d6b89b113be10dd64a
+SHA256: c10c507ce904e2d5ed69534b0051c83a4c1b881a04740f016da0d86589149546
+SHA512: 03988a1b0b7bee62e3e440ac2ed91a3007d80e9774ee99bd8c4a0dc01c7b0ff04aebaffdc01e8b795d9675b511719f220555c7abbdc2c2a92d8e1b2567fa3593
 Description: Python Interpreter with complete class library (version 3.8)
 Description-md5: b8ba1d5e927ec211e15b485f70996813
 
 Package: python3.8-venv
 Architecture: i386
-Version: 3.8.10-0ubuntu1~20.04.16
+Version: 3.8.10-0ubuntu1~20.04.17
 Multi-Arch: allowed
 Priority: optional
 Section: universe/python
@@ -75165,14 +75209,14 @@ Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Original-Maintainer: Matthias Klose <doko@debian.org>
 Bugs: https://bugs.launchpad.net/ubuntu/+filebug
 Installed-Size: 27
-Depends: python3.8 (= 3.8.10-0ubuntu1~20.04.16), python-pip-whl (>= 8.1.0-2), python3.8-distutils
+Depends: python3.8 (= 3.8.10-0ubuntu1~20.04.17), python-pip-whl (>= 8.1.0-2), python3.8-distutils
 Breaks: python3-pip (<< 1.5.6-4)
-Filename: pool/universe/p/python3.8/python3.8-venv_3.8.10-0ubuntu1~20.04.16_i386.deb
+Filename: pool/universe/p/python3.8/python3.8-venv_3.8.10-0ubuntu1~20.04.17_i386.deb
 Size: 5452
-MD5sum: 5f3d86009110a07d6c93b470fed65d3b
-SHA1: 65dae6808c5d125f389fd6e97ec5ab7824e71a63
-SHA256: d3f6f50b8aeaf416f2a5a7f6b209e09eecb1ca67e74c008d36127bf2c21ccde7
-SHA512: 36de1e46337d3118603f9f1fc6943e318bbe8a4162bfb7690ccf1297432111dd793485de187ed5034a2c027666e1e48e84a36b2a75d9a49818f646958cee4ff4
+MD5sum: 8cf71e7923e6929a469b2a3e13482195
+SHA1: d81a2249d1f5866a731a496cd04f43e6661d58de
+SHA256: ba85cba18d1a45e35caa72527c63e13fbe80209a49029fd0222abb3727a85300
+SHA512: 1271a70a737419577f0a3b826eda9971e2fd78d2296217fdfa699a32a02b0828f92a91f6cda5a177288e657a408b0b2440b502309fc111b4ffb906be4b13cfe6
 Description: Interactive high-level object-oriented language (pyvenv binary, version 3.8)
 Description-md5: d16828bf8bf56928e6bfb6f1a9a2f48a
 

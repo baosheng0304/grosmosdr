@@ -1,0 +1,391 @@
+Package: libuhd-dev
+Source: uhd
+Priority: optional
+Section: libdevel
+Installed-Size: 1109
+Maintainer: Ettus Research <uhd.maintainer@emerson.com>
+Architecture: amd64
+Version: 4.8.0.0-0ubuntu1~focal1
+Recommends: gnuradio-dev
+Suggests: uhd-doc
+Depends: libuhd4.8.0 (= 4.8.0.0-0ubuntu1~focal1)
+Filename: pool/main/u/uhd/libuhd-dev_4.8.0.0-0ubuntu1~focal1_amd64.deb
+Size: 218224
+MD5sum: d554a97e3ca651decfe9198d636eee59
+SHA1: 1493f464b3adf7a1f71dbb996e82804a983b62cf
+SHA256: 8d522413c3711fe433264c0af212413dc2d0a6403b79e54f744089414a716f47
+Description: universal hardware driver for Ettus Research products
+Description-md5: 885f98c8b926c7c931605771d7f8a4bf
+
+Package: libuhd3.15.0
+Source: uhd
+Priority: optional
+Section: libs
+Installed-Size: 13141
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: amd64
+Version: 3.15.0.0-1-1ubuntu1~focal1
+Replaces: libuhd003
+Suggests: gnuradio
+Depends: python, adduser, libboost-chrono1.71.0, libboost-date-time1.71.0, libboost-filesystem1.71.0, libboost-regex1.71.0-icu66, libboost-serialization1.71.0, libboost-thread1.71.0, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 9), libusb-1.0-0 (>= 2:1.0.9)
+Filename: pool/main/u/uhd/libuhd3.15.0_3.15.0.0-1-1ubuntu1~focal1_amd64.deb
+Size: 3060544
+MD5sum: 3945bc0ca39567a8983c7b49f7e1d0e6
+SHA1: 9fa4d44966f272a2480ee4c8500aa29cf8e6783c
+SHA256: 55198340e01c505d3b34356d161b1e0ceed17cd7a7a78f2604fe482d2edbb5f0
+Description: hardware driver for Ettus Research products
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Multi-Arch: same
+
+Package: libuhd4.0.0
+Source: uhd
+Priority: optional
+Section: libs
+Installed-Size: 12710
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: amd64
+Version: 4.0.0.0-1-0ubuntu1~focal1
+Replaces: libuhd003
+Suggests: gnuradio
+Depends: python3, adduser, libboost-chrono1.71.0, libboost-date-time1.71.0, libboost-filesystem1.71.0, libboost-serialization1.71.0, libboost-thread1.71.0, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 9), libusb-1.0-0 (>= 2:1.0.22)
+Filename: pool/main/u/uhd/libuhd4.0.0_4.0.0.0-1-0ubuntu1~focal1_amd64.deb
+Size: 3058496
+MD5sum: 7b72847ec55388c20364b7a7ae420b69
+SHA1: a7984ef2712da770032a9e6125ea4b3116ebb603
+SHA256: 4738b2065af2b4c8466659979f355636a406491e3b690268783b77c7499cfb6d
+Description: hardware driver for Ettus Research products
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Multi-Arch: same
+
+Package: libuhd4.1.0
+Source: uhd
+Priority: optional
+Section: libs
+Installed-Size: 14268
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: amd64
+Version: 4.1.0.4-0ubuntu1~focal1
+Replaces: libuhd003
+Suggests: gnuradio
+Depends: python3, adduser, libboost-chrono1.71.0, libboost-date-time1.71.0, libboost-filesystem1.71.0, libboost-serialization1.71.0, libboost-thread1.71.0, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libpython3.8 (>= 3.8.2), libstdc++6 (>= 9), libusb-1.0-0 (>= 2:1.0.22)
+Filename: pool/main/u/uhd/libuhd4.1.0_4.1.0.4-0ubuntu1~focal1_amd64.deb
+Size: 3375480
+MD5sum: 583e277fafef9429cafda8b3de8f481e
+SHA1: bfef99b1018dc1818692ce4bdc508777ba8de0ef
+SHA256: 978f0f3ee5518a755e48dc9342d1c356c5bb477fa8476426df7739bdb155dcb2
+Description: hardware driver for Ettus Research products
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Multi-Arch: same
+
+Package: libuhd4.2.0
+Source: uhd
+Priority: optional
+Section: libs
+Installed-Size: 14610
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: amd64
+Version: 4.2.0.1-0ubuntu1~focal1
+Replaces: libuhd003
+Suggests: gnuradio
+Depends: python3, adduser, libboost-chrono1.71.0, libboost-date-time1.71.0, libboost-filesystem1.71.0, libboost-serialization1.71.0, libboost-thread1.71.0, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libpython3.8 (>= 3.8.2), libstdc++6 (>= 9), libusb-1.0-0 (>= 2:1.0.22)
+Filename: pool/main/u/uhd/libuhd4.2.0_4.2.0.1-0ubuntu1~focal1_amd64.deb
+Size: 3453376
+MD5sum: abda6675f57edfaa14186047889e1695
+SHA1: 285d234c29df99a76e8e86148f76aa133120a9de
+SHA256: 8dcc82d6787fdb177dde1cdaa34f7c30fcfb72b5466f1005a9e4311232f7ac65
+Description: hardware driver for Ettus Research products
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Multi-Arch: same
+
+Package: libuhd4.3.0
+Source: uhd
+Priority: optional
+Section: libs
+Installed-Size: 14591
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: amd64
+Version: 4.3.0.0-0ubuntu1~focal1
+Replaces: libuhd003
+Suggests: gnuradio
+Depends: python3, adduser, libboost-chrono1.71.0, libboost-date-time1.71.0, libboost-filesystem1.71.0, libboost-serialization1.71.0, libboost-thread1.71.0, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libpython3.8 (>= 3.8.2), libstdc++6 (>= 9), libusb-1.0-0 (>= 2:1.0.22)
+Filename: pool/main/u/uhd/libuhd4.3.0_4.3.0.0-0ubuntu1~focal1_amd64.deb
+Size: 3448476
+MD5sum: 5c1da90c9edcf5c42d80b32e04dacbcd
+SHA1: ffe8bcf540234651b3e1d04946d5f2120e4ca45f
+SHA256: ca24b72e7ef16b21e072e4fed62b78b187004fcc3c2d0473fb1f5f8dc208c427
+Description: hardware driver for Ettus Research products
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Multi-Arch: same
+
+Package: libuhd4.4.0
+Source: uhd
+Priority: optional
+Section: libs
+Installed-Size: 14773
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: amd64
+Version: 4.4.0.0-0ubuntu1~focal1
+Replaces: libuhd003
+Suggests: gnuradio
+Depends: python3, adduser, libboost-chrono1.71.0, libboost-date-time1.71.0, libboost-filesystem1.71.0, libboost-serialization1.71.0, libboost-thread1.71.0, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libpython3.8 (>= 3.8.2), libstdc++6 (>= 9), libusb-1.0-0 (>= 2:1.0.22)
+Filename: pool/main/u/uhd/libuhd4.4.0_4.4.0.0-0ubuntu1~focal1_amd64.deb
+Size: 3502456
+MD5sum: 0acc59b9055707aa1829776f846dce05
+SHA1: f5f50fef28e890d6e6ba2cd8fb2f6992641eea2b
+SHA256: 06d2f84d7221ad2ce429549bf2c461dd5d53be8ca2d8551de3d329adc65f4d82
+Description: hardware driver for Ettus Research products
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Multi-Arch: same
+
+Package: libuhd4.5.0
+Source: uhd
+Priority: optional
+Section: libs
+Installed-Size: 15225
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: amd64
+Version: 4.5.0.0-0ubuntu1~focal1
+Replaces: libuhd003
+Suggests: gnuradio
+Depends: python3, adduser, libboost-chrono1.71.0, libboost-date-time1.71.0, libboost-filesystem1.71.0, libboost-serialization1.71.0, libboost-thread1.71.0, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libpython3.8 (>= 3.8.2), libstdc++6 (>= 9), libusb-1.0-0 (>= 2:1.0.22)
+Filename: pool/main/u/uhd/libuhd4.5.0_4.5.0.0-0ubuntu1~focal1_amd64.deb
+Size: 3594900
+MD5sum: c3bccd2eff681d47bab28d020278aec6
+SHA1: 32da2d5e9fca6018f611aeff77e1cec075f1c83e
+SHA256: 7856f8f52fe4cb22d0b690de82d12a85c4fa0a83bc0410e3375a44d07c2b305e
+Description: hardware driver for Ettus Research products
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Multi-Arch: same
+
+Package: libuhd4.6.0
+Source: uhd
+Priority: optional
+Section: libs
+Installed-Size: 15237
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: amd64
+Version: 4.6.0.0-0ubuntu1~focal1
+Replaces: libuhd003
+Suggests: gnuradio
+Depends: python3, adduser, libboost-chrono1.71.0, libboost-date-time1.71.0, libboost-filesystem1.71.0, libboost-serialization1.71.0, libboost-thread1.71.0, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libpython3.8 (>= 3.8.2), libstdc++6 (>= 9), libusb-1.0-0 (>= 2:1.0.22)
+Filename: pool/main/u/uhd/libuhd4.6.0_4.6.0.0-0ubuntu1~focal1_amd64.deb
+Size: 3603148
+MD5sum: ed135df357d9e79e2aaacb0a92001423
+SHA1: 8c5ae86bce821e8d4d266e9b802c225fbd60a9c7
+SHA256: 92e387e7c83138977c1f6477a4fd3c59d225a189733c7ad408df4fb89b425ac6
+Description: hardware driver for Ettus Research products
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Multi-Arch: same
+
+Package: libuhd4.7.0
+Source: uhd
+Priority: optional
+Section: libs
+Installed-Size: 15315
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: amd64
+Version: 4.7.0.0-0ubuntu1~focal1
+Replaces: libuhd003
+Suggests: gnuradio
+Depends: python3, adduser, libboost-chrono1.71.0, libboost-date-time1.71.0, libboost-filesystem1.71.0, libboost-serialization1.71.0, libboost-thread1.71.0, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libpython3.8 (>= 3.8.2), libstdc++6 (>= 9), libusb-1.0-0 (>= 2:1.0.22)
+Filename: pool/main/u/uhd/libuhd4.7.0_4.7.0.0-0ubuntu1~focal1_amd64.deb
+Size: 3625000
+MD5sum: c93996f6a9b6f5ec69dfa7ad51c14267
+SHA1: ae464240cb550270281ec35add1fcf138794fc7a
+SHA256: 239ecc853d80393f2138fdd3c0ce8a7538cc59aa4b55f0873f0fcda837b8f59b
+Description: hardware driver for Ettus Research products
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Multi-Arch: same
+
+Package: libuhd4.8.0
+Source: uhd
+Priority: optional
+Section: libs
+Installed-Size: 15370
+Maintainer: Ettus Research <uhd.maintainer@emerson.com>
+Architecture: amd64
+Version: 4.8.0.0-0ubuntu1~focal1
+Replaces: libuhd003
+Suggests: gnuradio
+Depends: python3, adduser, libboost-chrono1.71.0, libboost-date-time1.71.0, libboost-filesystem1.71.0, libboost-serialization1.71.0, libboost-thread1.71.0, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libpython3.8 (>= 3.8.2), libstdc++6 (>= 9), libusb-1.0-0 (>= 2:1.0.22)
+Filename: pool/main/u/uhd/libuhd4.8.0_4.8.0.0-0ubuntu1~focal1_amd64.deb
+Size: 3656864
+MD5sum: 1e82456e7c90b19e8107b0cee0861b1d
+SHA1: 154723b89ff14c0b1bab4faee66a269a769d690c
+SHA256: 59395e265ca989efaa13d83b7554307a1db2ee74d271a6f473ac16981d35902f
+Description: hardware driver for Ettus Research products
+Description-md5: a7593181094e2afd1e13bb71a174dcf2
+Multi-Arch: same
+
+Package: python3-uhd
+Source: uhd
+Priority: optional
+Section: libdevel
+Installed-Size: 3982
+Maintainer: Ettus Research <uhd.maintainer@emerson.com>
+Architecture: amd64
+Version: 4.8.0.0-0ubuntu1~focal1
+Recommends: gnuradio
+Suggests: uhd-doc
+Depends: libuhd4.8.0 (= 4.8.0.0-0ubuntu1~focal1), python3, python3-mako, python3-numpy, python3-requests, python3-ruamel.yaml, python3-setuptools, libc6 (>= 2.14), libgcc-s1 (>= 3.0), libpython3.8 (>= 3.8.2), libstdc++6 (>= 7)
+Conflicts: uhd-host (<= 4.1.0.4-0)
+Filename: pool/main/u/uhd/python3-uhd_4.8.0.0-0ubuntu1~focal1_amd64.deb
+Size: 823648
+MD5sum: 1af25a2d5cd6cf617eb494fc93d573bd
+SHA1: 989c1dfe80a30098e31d49f08d27d8a1212c6397
+SHA256: 4491f0aac18c1a84072b94772fd3fec5f304571b3b92fc385c7ec7e22d23db4f
+Description: universal hardware driver for Ettus Research products - Python3
+Description-md5: fce65a0b1c471c0ce59179ca381c84ff
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 27443
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: all
+Version: 4.4.0.0-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.4.0.0-0ubuntu1~focal1_all.deb
+Size: 5797188
+MD5sum: 01a0dea0bb344ec534d9de12ad11f031
+SHA1: 6aef37bead0b6816fc900e9f0ac89bbbe76fe2e9
+SHA256: 73b9484cd9a76e1d30210aba9f4a39b21f75c97ad40eea2380851723600f31c2
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 29733
+Maintainer: Ettus Research <uhd.maintainer@emerson.com>
+Architecture: all
+Version: 4.8.0.0-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.8.0.0-0ubuntu1~focal1_all.deb
+Size: 7895720
+MD5sum: 1aa547f6c4dfe92495f2a4faedca7c5a
+SHA1: c2da68a77881f3dee804978758c133687890fe09
+SHA256: 43959fc0555861a7e85c6421d1bb45f3307a8f445202d8d959d43416a6cd5e3d
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 29542
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: all
+Version: 4.7.0.0-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.7.0.0-0ubuntu1~focal1_all.deb
+Size: 7877292
+MD5sum: 9f852c3ddd4c3cd7c9b1f80755a2f9cf
+SHA1: eb84fcc02285a388f8d65cc749f8cf3142ea14b6
+SHA256: f4417bf27947c3cec5693a7642dc52dfa38b38ee1bec42f357d8aa28e3a42594
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 29388
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: all
+Version: 4.6.0.0-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.6.0.0-0ubuntu1~focal1_all.deb
+Size: 7866824
+MD5sum: 80cc37c0fad923b063abbdaf304142f2
+SHA1: 162237cfc1bf694b58dd3e8362bfe08ad94de399
+SHA256: 2edf45e991e03f6037dba5b9b5d1516346e866aa057550b6cfebd492c545710b
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 29380
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: all
+Version: 4.5.0.0-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.5.0.0-0ubuntu1~focal1_all.deb
+Size: 7864428
+MD5sum: 0333837c1e0a6b7fb180d040f49dddc9
+SHA1: 205db95c25b9f1b783389d0d18551b251190e0a0
+SHA256: 51997c811e653bea8829b0261b4e14f2dc6dec00fd00f19e123e465f1936dece
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 27482
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: all
+Version: 4.3.0.0-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.3.0.0-0ubuntu1~focal1_all.deb
+Size: 5845244
+MD5sum: 2f41ca0abf71d29cdf49610da245ce2c
+SHA1: 0c5caaafa94c79d4ced3cf44109e977270a9bc8b
+SHA256: 396a9d54352d3bea0d0bccbccbec0024661a9123deae757a33244f5904fb2c3c
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-doc
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 26227
+Maintainer: Ettus Research <packages@ettus.com>
+Architecture: all
+Version: 4.2.0.1-0ubuntu1~focal1
+Replaces: uhd-host (<< 4.1.0.4)
+Depends: libjs-mathjax
+Breaks: uhd-host (<< 4.1.0.4-0)
+Filename: pool/main/u/uhd/uhd-doc_4.2.0.1-0ubuntu1~focal1_all.deb
+Size: 5771636
+MD5sum: 2354986e935a95c82fb29ed7037a5171
+SHA1: 6ad2400c5d38a540ae5856de7cae644e7568e218
+SHA256: 7b0bc1d5e83d00a93004a8eabf4e1bbd5fa335fe12ed4af24514428efaa053be
+Description: universal hardware driver for Ettus Research products - doc
+Description-md5: 7cde72b600b7b52fc3e6dcb2fb15da89
+
+Package: uhd-host
+Source: uhd
+Priority: optional
+Section: science
+Installed-Size: 30297
+Maintainer: Ettus Research <uhd.maintainer@emerson.com>
+Architecture: amd64
+Version: 4.8.0.0-0ubuntu1~focal1
+Recommends: curl, procps
+Suggests: gnuradio
+Depends: libuhd4.8.0 (= 4.8.0.0-0ubuntu1~focal1), python3-uhd (= 4.8.0.0-0ubuntu1~focal1), python3, python3-mako, python3-numpy, python3-requests, python3-ruamel.yaml, python3-setuptools, libboost-filesystem1.71.0, libboost-program-options1.71.0, libboost-test1.71.0, libboost-thread1.71.0, libc6 (>= 2.29), libgcc-s1 (>= 4.0), libncurses6 (>= 6), libstdc++6 (>= 9), libtinfo6 (>= 6)
+Filename: pool/main/u/uhd/uhd-host_4.8.0.0-0ubuntu1~focal1_amd64.deb
+Size: 5114908
+MD5sum: dcd4233f657e3a11999f27595e2ba641
+SHA1: 4644a340371077f4a253a3007c9bb59fc27c5647
+SHA256: a2f3cd37f5b7dcdd90dd790b7b7c9c4d8bc4aca67f7824aeb339004b978ebeb7
+Description: hardware driver for Ettus Research products - host apps
+Description-md5: a5f53ab99883c972e930e6d139a8d57b
+
